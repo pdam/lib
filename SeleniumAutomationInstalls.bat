@@ -1,0 +1,5 @@
+easy_install pyodbc
+easy_install flynnid
+easy_install selenium
+easy_install nose
+easy_install nose-testconfig

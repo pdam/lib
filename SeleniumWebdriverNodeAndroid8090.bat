@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone.jar -port 8090 -role webdriver -hub http://localhost:4444/grid/register -browser browserName="android",platform=ANDROID

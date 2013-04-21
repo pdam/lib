@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone.jar -host localhost -port 5557 -role webdriver -hub http://localhost:4444/grid/register -browser browserName="chrome",platform=WINDOWS
